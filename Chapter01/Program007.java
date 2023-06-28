@@ -1,8 +1,8 @@
-public class Program004{
+public class Program007{
     public static void main(String [] args){
         System.out.println("Hello Java World ");
         System.out.println("\nSare Jahan Se Achacha Hindustan Hamara ");
-        System.out.println("\nHello Java Learner, This is Program 4 ");
+        System.out.println("\nHello Java Learner, This is Program 7 ");
 
     
     }
