@@ -1,21 +1,23 @@
 //Pattern Program 4
-//package Patterns;
-
+/*
+11111
+00000
+11111
+00000
+11111
+*/
 public class PatternProgram004
 {
     public static void main(String [] args)
     {
-       // int row=5;
-
-    for(int i=5;i>=1;i--)
+        
+    for(int i=1;i<=5;i++)
         {
-        for(int j=1;j<=i;j++)
+        for(int j=1;j<=5;j++)
             {
-            System.out.print("* ");
-            }
+            System.out.print(i%2);
+        }
         System.out.println();   
         }
-        
-    
     }
 }
